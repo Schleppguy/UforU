@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import $ from 'jquery';
 import Survey from './components/Survey.jsx';
 import Results from './components/Results.jsx';
 import axios from 'axios';
